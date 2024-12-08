@@ -10,7 +10,7 @@ src="https://files.catbox.moe/otfl6o.jpg"/>
 
 ***`FORK REPO`***
 
-  <a href="https://github.com/mr-anuhas/ANGEL-MD-v1/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SOBIA MD" width="150"></a>
+  <a href="https://github.com/mr-anuhas/ANGEL-MD-v1./fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SOBIA MD" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
