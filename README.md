@@ -29,7 +29,7 @@ src="https://files.catbox.moe/otfl6o.jpg"/>
 
 ### <br> `HEROKU DEPLOYMENT`
 <p align="left">
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/mr-anuhas/ANGEL-MD-V1"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/mr-anuhas/ANGEL-MD-v1."><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -39,16 +39,6 @@ src="https://files.catbox.moe/otfl6o.jpg"/>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `INSTAGRAM`
-<p align="left">
-<a href="https://www.instagram.com/um4rxd"><img height= "35" title="Author" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=instagram"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<h1>OUR TEAM</h1>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<details>
-<h6>Authors</h6>
 
 <div align="center">
   
