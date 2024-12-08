@@ -52,21 +52,7 @@ src="https://files.catbox.moe/otfl6o.jpg"/>
 
 <div align="center">
   
-| [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
-|----|
-| [ UMAR REHMAN ](https://github.com/Um4r719) |
-| Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br>
-  
-| [![Sobia Butt](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
-|----|
-| [ SOBIA BUTT ](https://github.com/Sobxsparl) |
-|  Owner |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
 
-</details>
 
 
 
